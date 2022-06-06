@@ -11,3 +11,6 @@ hllo
 Sample website with plenty of files for demos
 
 ##deployement
+## copyright
+
+Git.training
